@@ -1,0 +1,8 @@
+﻿l_english:
+ modifier_army_sub_unit_mages_attack_factor:0 "Атака магів"
+ modifier_army_sub_unit_mages_defence_factor: "Захист магів"
+ modifier_army_sub_unit_mages_speed_factor:0 "Швидкість магів"
+ #modifier_army_sub_unit_cavalry_speed_factor:0 "Швидкість кавалерії"
+ monarchism_drift:0 "Щоденна підтримка монархізму"
+ country_resource_mage_orb:0 "Виробництво магічних сфер"
+ YS_resistance_suppressed:0 "Опір придушено"

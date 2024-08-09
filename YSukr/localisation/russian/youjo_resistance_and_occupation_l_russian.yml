@@ -1,0 +1,7 @@
+﻿l_russian:
+ stratified_rule:0 "Стратифіковане правило"
+ business_sabotage_decrease_tooltip:0 "  Шанс саботажу видобутку ресурсів: §G-25%§!\n  Шанс саботажу цивільної фабрики: §G-25%§!"
+ business_sabotage_decrease_tooltip_ADDED:0 "  Шанс саботажу видобутку ресурсів: §G-25%§! (§G-25%§!)\n  Шанс саботажу цивільної фабрики: §G-25%§! (§G-25%§!)"
+ business_sabotage_decrease_tooltip_REMOVED:0 "  Шанс саботажу видобутку ресурсів: §H+0%§! (§R+25%§!)\n  Шанс саботажу цивільної фабрики: §H+0%§! (§R+25%§!)"
+ business_sabotage_decrease_tooltip_UNCHANGED:0 "  Шанс саботажу видобутку ресурсів: §G-25%§! (§H+0%§!)\n  Шанс саботажу цивільної фабрики: §G-25%§! (§H+0%§!)"
+ 

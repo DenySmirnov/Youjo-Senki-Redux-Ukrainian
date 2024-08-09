@@ -1,0 +1,15 @@
+﻿l_russian:
+ #Generic
+ YS_paralyzed_diplomacy:0 "Паралізована дипломатія"
+ YS_paralyzed_diplomacy_desc:0 "Внутрішні проблеми змушують цю країну зосередитися на внутрішніх справах. Вони не будуть займатися зовнішніми справами."
+ YS_limited_war:0 "Регіональний конфлікт"
+ YS_limited_war_desc:0 "Ця країна втягнута в регіональний конфлікт. Іноземне втручання загрожує ескалацією."
+ YS_trust_territory:0 "Підопічна територія"
+ YS_trust_territory_desc:0 "Це підопічна територія без суверенітету."
+ YS_subjugated_population:0 "Підкорене населення"
+ YS_subjugated_population_desc:0 "Наш народ втратив бажання чинити опір своїм окупантам."
+ monarc_ethos_focus:0 "Монархічний дух"
+ handed_titles:0 "Меценатство"
+ levy_system_manpower:0 "Система зборів"
+ indentured_servitude:0 "Обов'язковий сервітут"
+ more_workers:0 "Сімейні справи"

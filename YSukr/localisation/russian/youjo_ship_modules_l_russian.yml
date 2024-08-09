@@ -1,0 +1,7 @@
+﻿l_russian:
+ ### EQUIPMENT MODULE CATEGORIES ###
+ EQ_MOD_CAT_ship_marine_mage_TITLE:0 "Морські маги"
+ ### EQUIPMENT MODULES ###
+ ship_marine_mage_1:0 "Відділення морських магів"
+ ship_marine_mage_1_short:0 "Морські маги"
+ ship_marine_mage_1_desc:0 "Відсік для морських магів. Включає житлові приміщення, арсенал зброї та приміщення для обслуговування сфери"

@@ -1,0 +1,12 @@
+﻿l_russian:
+ YS_ORB_TUNING_TITLE:0 "Поліпшення сфер"
+ YS_ORB_TUNING_REMAINING:0 "Доступні очки поліпшення: [?RemainingTunePts|+0]"
+ YS_ORB_TUNING_UNAVAILABLE:0 "Для поліпшення сфер необхідно дослідити $mage_equipment_0_short$"
+ YS_ORB_TUNING_SOFT_ATTACK: "Протипіхотна атака: [?Root.modifier@orb_tuning_soft_attack_modifier|%+=0]"
+ YS_ORB_TUNING_HARD_ATTACK: "Протитанкова атака: [?Root.modifier@orb_tuning_hard_attack_modifier|%+=0]"
+ YS_ORB_TUNING_PIERCING: "Бронебійність: [?Root.modifier@orb_tuning_piercing_modifier|%+=0]"
+ YS_ORB_TUNING_HARDNESS: "Доля техніки: [?Root.modifier@orb_tuning_hardness_modifier|%+=0]"
+ YS_ORB_TUNING_ARMOR: "Броня: [?Root.modifier@orb_tuning_armor_modifier|%+=0]"
+ orb_tuning_summary_display: "Поліпшення сфер"
+ orb_tuning_summary_display_desc: "Протипіхотна атака: [?Root.modifier@orb_tuning_soft_attack_modifier|%+=0]\nПротитанкова атака: [?Root.modifier@orb_tuning_hard_attack_modifier|%+=0]\nБронебійність: [?Root.modifier@orb_tuning_piercing_modifier|%+=0]\nДоля техніки: [?Root.modifier@orb_tuning_hardness_modifier|%+=0]\nБроня: [?Root.modifier@orb_tuning_armor_modifier|%+=0]\n\nВи можете приховати статистику налаштування інших країн або повністю вимкнути налаштування сфери в розділі Функції моду користувацьких правил гри."
+ gain_orb_tuning_point_1_tt: "Дає §G1§! §Yочко поліпшення§!"

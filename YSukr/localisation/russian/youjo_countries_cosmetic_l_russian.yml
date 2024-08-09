@@ -1,0 +1,63 @@
+﻿l_russian:
+ REP_FREE_democratic:0 "Вільна Республіка"
+ REP_FREE_democratic_DEF:0 "Вільна Республіка"
+ REP_FREE_democratic_ADJ:0 "Вільна Республіканськ"
+ REP_EMP_monarchism_autonomy_YS_province:0 "Окупована Франконія"
+ REP_EMP_monarchism_autonomy_YS_province_DEF:0 "Окупована Франконія"
+ REP_EMP_monarchism_autonomy_YS_vassal:0 "Окупована Франконія"
+ REP_EMP_monarchism_autonomy_YS_vassal_DEF:0 "Окупована Франконія"
+ REP_EMP_monarchism_autonomy_YS_protectorate:0 "Окупована Франконія"
+ REP_EMP_monarchism_autonomy_YS_protectorate_DEF:0 "Окупована Франконія"
+ DAC_EMP_monarchism_autonomy_YS_province_DEF:0 "Імперська Дакійська держава"
+ DAC_EMP_monarchism_autonomy_YS_province:0 "Імперська Дакійська держава"
+ DAC_EMP_monarchism_autonomy_YS_vassal_DEF: "Протекторат Дакія"
+ DAC_EMP_monarchism_autonomy_YS_vassal:0 "Протекторат Дакія"
+ DAC_EMP_monarchism_autonomy_YS_protectorate_DEF:0 "Герцогство Дакія"
+ DAC_EMP_monarchism_autonomy_YS_protectorate:0 "Герцогство Дакія"
+ DAC_unified_fascism:0 "Велика Дакія"
+ DAC_unified_fascism_ADJ:0 "Дакійськ"
+ DAC_unified_democratic:0 "Велика Дакія"
+ DAC_unified_democratic_ADJ:0 "Дакійськ"
+ DAC_unified_communism_ADJ:0 "Дакійськ"
+ DAC_unified_communism:0 "Велика Дакія"
+ EMP_puppet_fascism:0 "Імперська держава"
+ EMP_puppet_fascism_DEF:0 "Імперська держава"
+ EMP_puppet_monarchism:0 "Імперія"
+ EMP_puppet_monarchism_DEF:0 "Імперія"
+ EMP_puppet_monarchism_ADJ:0 "Імперськ"
+ EMP_puppet_democratic:0 "Федеративна Республіка"
+ EMP_puppet_democratic_DEF:0 "Федеративна Республіка"
+ EMP_puppet_neutrality:0 "Імперія"
+ EMP_puppet_neutrality_DEF:0 "Імперія"
+ EMP_puppet_communism:0 "Берлунська комуна"
+ EMP_puppet_communism_DEF:0 "Берлунська комуна"
+ EMP_puppet_fascism_ADJ:0 "Імперськ"
+ EMP_puppet_democratic_ADJ:0 "Берлунськ"
+ EMP_puppet_neutrality_ADJ:0 "Імперськ"
+ EMP_puppet_communism_ADJ:0 "Берлунськ"
+ RUS_union_communism_ADJ:0 "Великий Комуністичний Союз"
+ RUS_union_communism:0 "Великий Комуністичний Союз"
+ RUS_constitutional_empire:0 "Руська Імперія"
+ RUS_constitutional_empire_DEF:0 "Руська Імперія"
+ RUS_white_army:0 "Руська біла армія"
+ RUS_white_army_DEF:0 "Руська Біла Армія"
+ RUS_provisional_duma:0 "Тимчасова руська дума"
+ RUS_provisional_duma_DEF:0 "Тимчасова руська дума" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

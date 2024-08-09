@@ -1,0 +1,122 @@
+﻿l_english:
+ #EMPIRE
+ EMP_imperial_council_name: "Імперська рада"
+ EMP_democratic_council_name: "Постійна демократична рада"
+ #canon, but some first names were made up
+ EMP_zettour_name:0 "Ганс фон Цеттур"
+ EMP_rudersdorf_name:0 "Курт фон Рудерсдорф"
+ EMP_marchese_name:0 "Джоель фон Маркезе"
+ EMP_schugel_name:0 "Адельхайд фон Шугель"
+ EMP_tanya_name:0 "Таня фон Дегуречафф"
+ EMP_rerugen_name:0 "Еріх фон Рерюген"
+ EMP_kodru_name:0 "Вольфрам фон Кодру"
+ EMP_von_hans_name:0 "Мортіс-Поль фон Ганс"
+ EMP_schubert_name:0 "Айша Шуберт"
+ EMP_ugar_name:0 "Максиміліан Йохан фон Угар"
+ EMP_schreise_name:0 "Генріх Шрайзе"
+ EMP_schwarzkopf_name:0 "Іхлен Шварцкопф"
+ #original
+ EMP_admiral_1_name:0 "Отто фон Ріттер"
+ EMP_admiral_2_name:0 "Карл Вольф"
+ EMP_admiral_3_name:0 "Людвіг Кеніц"
+ EMP_admiral_4_name:0 "Адальберт Фленсбурзький"
+ EMP_admiral_5_name:0 "Альберт Восс"
+ EMP_admiral_6_name:0 "Ойген Госсман"
+ EMP_advisor_civilian_1_name:0 "Крістіан фон Брух"
+ EMP_advisor_civilian_2_name:0 "Ойген Шуттлер"
+ EMP_advisor_civilian_3_name:0 "Джоел Веллер"
+ EMP_advisor_civilian_4_name:0 "Ерхард Вольф"
+ EMP_advisor_civilian_5_name:0 "Йоханнес Гертнер"
+ EMP_advisor_civilian_6_name:0 "Кріс Візнер"
+ EMP_advisor_civilian_7_name:0 "Джоел Кольхазе"
+ EMP_advisor_civilian_8_name:0 "Отто Клемпнер"
+ EMP_advisor_civilian_9_name:0 "Оскар Стокер"
+ EMP_advisor_civilian_10_name:0 "Нільс Шойер"
+ EMP_advisor_air_1_name:0 "Альберіхт Конрад"
+ EMP_advisor_air_2_name:0 "Бернгард фон Стогге"
+ EMP_advisor_air_3_name:0 "Рудольф Гіппель"
+ EMP_advisor_air_4_name:0 "Георг Віттельберзький"
+
+ #REPUBLIC
+ REP_general_council_name: "Республіканська генеральна рада"
+ REP_imperial_puppet_name: "Маріонетковий франконський уряд"
+ #Formerly Pierre Michelaud Lugo
+ REP_de_lugo_name:0 "П'єр-Мішель де Луго"
+ #Formerly Séverin Bientôt
+ REP_vianto_name:0 "Северін Віанто"
+ #original
+ REP_general_1_name:0 "Роллан Жульєн"
+ REP_general_2_name:0 "Трістан Аллард"
+ REP_general_3_name:0 "Макс Глалуа"
+ REP_general_4_name:0 "Томас Ванньє"
+ REP_advisor_1_name:0 "Костянтин Делоффре"
+ REP_advisor_2_name:0 "Симон де Вільєрс"
+ REP_advisor_3_name:0 "Жанна Піаже"
+ REP_advisor_4_name:0 "Матьє Морель"
+ REP_advisor_5_name:0 "Арманд Пассеро"
+ 
+ #LEGADONIA
+ #Anson Sue's name and Kazole's last name are canon, the rest were made up
+ LEG_olvajoule_kazole_name:0 "Олваджул Казоле"
+ LEG_caretaker_government_name:0 "Тимчасовий уряд"
+ LEG_rightwing_leader_name:0 "Улоф Рагнар Ерікссон"
+ LEG_leftwing_leader_name:0 "Густав Бьорн Ліндхольм"
+ LEG_anson_sue_name:0 "Енсон Сіу"
+ 
+ #DACIA
+ #Imperial governor of Dacia
+ #Vol. 9 Ch. 2 p. 85 ダキア方面の軍政官 ローゼンベルク閣下 (...) 男爵位もお持ちですが
+ DAC_rosenberg_name:0 "Барон фон Розенберг"
+ #original
+ DAC_leader_communism_name:0 "Мірча Росу"
+ DAC_leader_democratic_name:0 "Траян Відрареску"
+ DAC_leader_fascism_name:0 "Микита Йонеску"
+ DAC_general_1_name:0 "Ангел Ласкар"
+ DAC_general_2_name:0 "Крістіан Василе"
+ DAC_general_3_name:0 "Мирон Братіану"
+ DAC_general_4_name:0 "Флоріан Думітреску"
+ 
+ #ALBION
+ #The old PM's name was never revealed
+ ALK_prime_minister_name:0 "Прем'єр міністр"
+ #マールバラ公爵/第一海軍卿 a.k.a. チャーブル首相
+ #Same person as Churbull
+ ALK_marlborough_name:0 "Герцог Мальборо"
+ #The uncle
+ ALK_isaac_d_drake_name:0 "Ісаак Дастін Дрейк"
+ #The nephew (appeared in the movie)
+ ALK_william_d_drake_name:0 "Вільям Дуглас Дрейк"
+ #original
+ ALK_general_1_name:0 "Рекс Тревіно"
+ ALK_general_2_name:0 "Олександр Данмолл"
+ 
+ #RUSSY
+ #canon
+ RUS_josef_dzhugashvili_name:0 "Джозеф Джугашвілі"
+ RUS_loria_name:0 "Лоріа"
+ #Guy who got purged in the movie. Last name was made up
+ RUS_nikolai_name: "Микола Всеволодович"
+ #original
+ RUS_alexandra_name: "Олександра І"
+ RUS_vasily_name: "Василь Дручев"
+ RUS_provisional_duma_name: "Тимчасова Дума"
+ RUS_regency_council_name: "Регентська рада"
+ RUS_general_1_name:0 "Афанасій Чернов"
+ RUS_general_2_name:0 "Федор Ніколаєв"
+ RUS_general_3_name:0 "В'ячеслав Семенов"
+
+ #Others
+ #ノーラス・トルバカイン from Yakusoku no Kuni
+ HIL_initial_leader_name: "Нолас Торвакайн"
+ TRK_princely_council_name: "Княжна рада"
+ RUM_senate_name: "Сенат Румелії"
+ #original
+ AST_initial_leader_name: "Даніель П. Клементс"
+ CAN_initial_leader_name: "Джастін Денніс"
+ CHI_initial_leader_name: "Ван Суйшен"
+ HIS_initial_leader_name: "Рамон Денгра"
+ ILD_initial_leader_name: "Принц Рамундо I"
+ JAP_initial_leader_name: "Принц Кейясу ІІ"
+ MEX_initial_leader_name: "Агустін Мансебо"
+ SWI_initial_leader_name: "Лукас Бальмер"
+ USA_initial_leader_name: "Вільям Дж. Браун"

@@ -1,0 +1,224 @@
+﻿l_english:
+ YUG_monarchism:0 "Королівство Гілтрія"
+ YUG_monarchism_DEF:0 "Королівство Гілтрія"
+ YUG_monarchism_ADJ:0 "Гілтрійськ"
+ 
+ ICE_monarchism:0 "Ісландське царство"
+ ICE_monarchism_DEF:0 "Ісландське царство"
+ ICE_monarchism_ADJ:0 "Ісландськ"
+ 
+ ALG_monarchism:0 "Королівство Алжир"
+ ALG_monarchism_DEF:0 "Королівство Алжир"
+ ALG_monarchism_ADJ:0 "Алжирськ"
+ 
+ NGR_monarchism:0 "Королівство Нігер"
+ NGR_monarchism_DEF:0 "Королівство Нігер"
+ NGR_monarchism_ADJ:0 "Нігерськ"
+ 
+ DAH_monarchism:0 "Королівство Бенін"
+ DAH_monarchism_DEF:0 "Королівство Бенін"
+ DAH_monarchism_ADJ:0 "Бенінськ"
+ 
+ TOG_monarchism:0 "Королівство Тоголенд"
+ TOG_monarchism_DEF:0 "Королівство Тоголенд"
+ TOG_monarchism_ADJ: "Тоголендськ"
+ 
+ VOL_monarchism:0 "Буркінабська монархія"
+ VOL_monarchism_DEF:0 "Буркінабська монархія"
+ VOL_monarchism_ADJ:0 "Буркінабськ"
+ 
+ MLI_monarchism:0 "Імперія Малі"
+ MLI_monarchism_DEF:0 "Імперія Малі"
+ MLI_monarchism_ADJ:0 "Малійськ"
+ 
+ IVO_monarchism:0 "Імперія чистого слона"
+ IVO_monarchism_DEF:0 "Імперія чистого слона"
+ IVO_monarchism_ADJ:0 "Івуаріанськ"
+ 
+ LIB_monarchism:0 "Ліберійське королівство"
+ LIB_monarchism_DEF:0 "Ліберійське королівство"
+ LIB_monarchism_ADJ:0 "Ліберійськ"
+ 
+ GNA_monarchism:0 "Королівство Гвінея"
+ GNA_monarchism_DEF:0 "Королівство Гвінея"
+ GNA_monarchism_ADJ:0 "Гвінейськ"
+ 
+ MRT_monarchism:0 "Мавританський султанат"
+ MRT_monarchism_DEF:0 "Мавританський султанат"
+ MRT_monarchism_ADJ:0 "Мавританськ"
+ 
+ CHA_monarchism:0 "Імперія Чад"
+ CHA_monarchism_DEF:0 "Імперія Чад"
+ CHA_monarchism_ADJ:0 "Чадськ"
+ 
+ CMR_monarchism:0 "Камерунське королівство"
+ CMR_monarchism_DEF:0 "Камерунське королівство"
+ CMR_monarchism_ADJ:0 "Камерунськ"
+ 
+ CAR_monarchism:0 "Центральноафриканська імперія"
+ CAR_monarchism_DEF:0 "Центральноафриканська імперія"
+ CAR_monarchism_ADJ:0 "Центральноафриканськ"
+ 
+ GAB_monarchism:0 "Габонська монархія"
+ GAB_monarchism_DEF:0 "Габонська монархія"
+ GAB_monarchism_ADJ:0 "Габонськ"
+ 
+ RCG_monarchism:0 "Королівство Конго"
+ RCG_monarchism_DEF:0 "Королівство Конго"
+ RCG_monarchism_ADJ: "Конголезьк"
+ 
+ COG_monarchism:0 "Конго"
+ COG_monarchism_DEF:0 "Конго"
+ COG_monarchism_ADJ:0 "Конголезькe"
+ 
+ SUD_monarchism:0 "Неонубійська імперія"
+ SUD_monarchism_DEF:0 "Неонубійська імперія"
+ SUD_monarchism_ADJ:0 "Нубіанськ"
+ 
+ ETH_monarchism:0 "Абіссінія"
+ ETH_monarchism_DEF:0 "Абіссінія"
+ ETH_monarchism_ADJ:0 "Абіссінськ"
+ 
+ KEN_monarchism:0 "Західноафриканська імперія"
+ KEN_monarchism_DEF:0 "Західноафриканська імперія"
+ KEN_monarchism_ADJ:0 "Західноафриканськ"
+ 
+ RWA_monarchism:0 "Королівство Руанда"
+ RWA_monarchism_DEF:0 "Королівство Руанда"
+ RWA_monarchism_ADJ:0 "Руандійськ"
+ 
+ BRD_monarchism:0 "Королівство Бурунді"
+ BRD_monarchism_DEF:0 "Королівство Бурунді"
+ BRD_monarchism_ADJ:0 "Бурундійськ"
+ 
+ ANG_monarchism:0 "Королівство Ангола"
+ ANG_monarchism_DEF:0 "Королівство Ангола"
+ ANG_monarchism_ADJ:0 "Ангольськ"
+ 
+ ZAM_monarchism:0 "Замбійське королівство"
+ ZAM_monarchism_DEF:0 "Замбійське королівство"
+ ZAM_monarchism_ADJ:0 "Замбійськ"
+ 
+ MLW_monarchism:0 "Королівство Малаві"
+ MLW_monarchism_DEF:0 "Королівство Малаві"
+ MLW_monarchism_ADJ:0 "Малавійськ"
+ 
+ MZB_monarchism:0 "Мозамбікське королівство"
+ MZB_monarchism_DEF:0 "Мозамбікське королівство"
+ MZB_monarchism_ADJ:0 "Мозамбікськ"
+ 
+ ZIM_monarchism:0 "Королівство Родезія"
+ ZIM_monarchism_DEF:0 "Королівство Родезія"
+ ZIM_monarchism_ADJ:0 "Родезійськ"
+ 
+ SAF_monarchism:0 "Південно-Африканська імперія"
+ SAF_monarchism_DEF:0 "Південно-Африканська імперія"
+ SAF_monarchism_ADJ:0 "Південноафриканськ"
+ 
+ PER_monarchism:0 "Перська імперія"
+ PER_monarchism_DEF:0 "Перська імперія"
+ PER_monarchism_ADJ:0 "Перськ"
+ 
+ AFG_monarchism:0 "Афганський султанат"
+ AFG_monarchism_DEF:0 "Афганський султанат"
+ AFG_monarchism_ADJ:0 "Афганськ"
+ 
+ VIN_monarchism:0 "В'єтнамська імперія"
+ VIN_monarchism_DEF:0 "В'єтнамська імперія"
+ VIN_monarchism_ADJ:0 "В'єтнамськ"
+ 
+ FIN_monarchism:0 "Герцогство Фінляндське"
+ FIN_monarchism_DEF:0 "Герцогство Фінляндське"
+ FIN_monarchism_ADJ:0 "Фінськ"
+ 
+ EST_monarchism:0 "Королівство Естонія"
+ EST_monarchism_DEF:0 "Королівство Естонія"
+ EST_monarchism_ADJ:0 "Естонськ"
+ 
+ LAT_monarchism:0 "Латвійське королівство"
+ LAT_monarchism_DEF:0 "Латвійське королівство"
+ LAT_monarchism_ADJ:0 "Латвійськ"
+ 
+ LIT_monarchism:0 "Велике князівство Литовське"
+ LIT_monarchism_DEF:0 "Велике князівство Литовське"
+ LIT_monarchism_ADJ:0 "Литовськ"
+ 
+ BLR_monarchism:0 "Герцогство Білоруське"
+ BLR_monarchism_DEF:0 "Герцогство Білоруське"
+ BLR_monarchism_ADJ:0 "Білоруськ"
+ 
+ UKR_monarchism:0 "Русь-Україна"
+ UKR_monarchism_DEF:0 "Русь-Україна"
+ UKR_monarchism_ADJ:0 "Українськ"
+ 
+ GEO_monarchism:0 "Кавказьке князівство"
+ GEO_monarchism_DEF:0 "Кавказьке князівство"
+ GEO_monarchism_ADJ:0 "Кавказьк"
+ 
+ ARM_monarchism:0 "Вірменська імперія"
+ ARM_monarchism_DEF:0 "Вірменська імперія"
+ ARM_monarchism_ADJ:0 "Вірменськ"
+ 
+ AZR_monarchism:0 "Велике Азербайджанське князівство"
+ AZR_monarchism_DEF:0 "Велике Азербайджанське князівство"
+ AZR_monarchism_ADJ:0 "Азербайджанськ"
+ 
+ KAZ_monarchism:0 "Казахське ханство"
+ KAZ_monarchism_DEF:0 "Казахське ханство"
+ KAZ_monarchism_ADJ:0 "Казахськ"
+ 
+ KYR_monarchism:0 "Киргизьке ханство"
+ KYR_monarchism_DEF:0 "Киргизьке ханство"
+ KYR_monarchism_ADJ:0 "Киргизьк"
+ 
+ TAJ_monarchism:0 "Таджицьке ханство"
+ TAJ_monarchism_DEF:0 "Таджицьке ханство"
+ TAJ_monarchism_ADJ:0 "Таджицьк"
+ 
+ UZB_monarchism:0 "Узбецьке ханство"
+ UZB_monarchism_DEF:0 "Узбецьке ханство"
+ UZB_monarchism_ADJ:0 "Узбецьк"
+ 
+ TMS_monarchism:0 "Імперія Тимуридів"
+ TMS_monarchism_DEF:0 "Імперія Тимуридів"
+ TMS_monarchism_ADJ:0 "Тимуридськ"
+ 
+ PAK_monarchism:0 "Пакистанська імперія"
+ PAK_monarchism_DEF:0 "Пакистанська імперія"
+ PAK_monarchism_ADJ:0 "Пакистанськ"
+ 
+ RAJ_monarchism:0 "Радж"
+ RAJ_monarchism_DEF:0 "Радж"
+ RAJ_monarchism_ADJ:0 "Індійськ"
+ 
+ NEP_monarchism:0 "Священне Гімалайське царство"
+ NEP_monarchism_DEF:0 "Священне Гімалайське царство"
+ NEP_monarchism_ADJ:0 "Гімалайськ"
+ 
+ BHU_monarchism:0 "Бутанське королівство"
+ BHU_monarchism_DEF:0 "Бутанське королівство"
+ BHU_monarchism_ADJ:0 "Бутанськ"
+ 
+ SIA_monarchism:0 "Імперія Сіам"
+ SIA_monarchism_DEF:0 "Імперія Сіам"
+ SIA_monarchism_ADJ:0 "Сіамськ"
+ 
+ CHI_monarchism:0 "Китайська імперія"
+ CHI_monarchism_DEF:0 "Китайська імперія"
+ CHI_monarchism_ADJ:0 "Китайськ"
+ 
+ PHI_monarchism:0 "Королівство Філіппіни"
+ PHI_monarchism_DEF:0 "Королівство Філіппіни"
+ PHI_monarchism_ADJ:0 "Філіпінськ"
+ 
+ AST_monarchism:0 "Сполучене Королівство Австралія"
+ AST_monarchism_DEF:0 "Сполучене Королівство Австралія"
+ AST_monarchism_ADJ:0 "Австралійськ"
+ 
+ NZL_monarchism:0 "Велике Королівство Маорі"
+ NZL_monarchism_DEF:0 "Велике Королівство Маорі"
+ NZL_monarchism_ADJ:0 "Маорійськ"
+ 
+ MEX_monarchism:0 "Імперія Мексика"
+ MEX_monarchism_DEF:0 "Імперія Мексика"
+ MEX_monarchism_ADJ:0 "Мексиканськ"

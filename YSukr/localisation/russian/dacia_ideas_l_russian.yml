@@ -1,0 +1,22 @@
+﻿l_russian:
+#diplo
+ DAC_friends_of_republic:0 "Друзі Республіки"
+ DAC_friends_of_empire:0 "Друзі Імперії"
+ DAC_ignored_us:0 "Проігноровані"
+ RUSSY_not_sent_us_equipment:0 "Без східної допомоги"
+ RUSSY_sent_us_equipment:0 "Руські потяги їдуть"
+ DAC_communist_takeover_decision_taken:0 "Комуністичне захоплення"
+#ideas
+ dacia_outdated_army:0 "Застаріла армія"
+ dacia_outdated_army_desc:0 "Більшість армії складається з піхотних дивізій, які використовують доктрину попередньої епохи, марширують разом, як великий натовп, маючи на меті одну битву, щоб виграти їх усі. Це, напевно, має спрацювати... так?"
+ DAC_idea_business_contracts:0 "Бізнес контракти"
+ DAC_idea_economic_boom:0 "Економічний бум"
+ DAC_idea_selling_to_both_sides:0 "Таки вигідна торгівля"
+ DAC_idea_we_are_on_our_own:0 "Самі собі господарі"
+ dacia_patriotism:0 "Дакійський патріотизм"
+ dacia_recovering_from_civil_war:0 "Відновлення після громадянської війни"
+ dacia_civilian_construction:0 "Цивільне будівництво"
+ ROM_balkans_dominance:0 "Крила революції"
+ dacia_pride_of_the_old:0 "Гордість дідів"
+ dacia_pride_of_the_old_desc:0 "Тактика наших старшин зберегла нашу націю під час останньої великої війни і не дозволила нам бути повністю викресленими з історії. Коли ми повстанемо знову, наша перемога буде забезпечена їхнім вченням, яке ми ніколи не відкидали."
+ 

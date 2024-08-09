@@ -1,0 +1,73 @@
+﻿l_english:
+ #Russy
+ RUS_dockyard_capacity_increased:0 "Збільшено потужність суднобудівного заводу"
+
+ #RUS_all_men_must_carry_a_gun:0 "All men must Carry a Gun"
+ 
+ #RUS_total_warfare:0 "Total Warfare"
+ 
+ #RUS_military_university:0 "The Moscow Military University"
+ 
+ #RUS_faster_training:0 "Reduced Time Training"
+ 
+ #RUS_army_research_department:0 "The Army Research Department"
+ 
+ #RUS_fanaticized_army:0 "Fanaticized Army"
+
+ #RUS_mass_plane_production:0 "Mass Plane Production"
+ 
+ RUS_build_communist_realm:0 "Будівля комуністичного царства"
+ 
+ RUS_spreading_preparation:0 "Підготовка великоруської експансії"
+ 
+ RUS_disloyal_army:0 "Нелояльна армія"
+
+ RUS_rebellious_army:0 "Повстанська армія"
+ 
+ RUS_worldwide_union_building:0 "Всесвітній дім профспілок"
+ 
+ RUS_political_opposition:0 "Політична опозиція"
+ 
+ RUS_nkvd_commissars:0 "Комісари НКВС"
+ RUS_lost_internationalist_ties:0 "Втрачені інтернаціоналістичні зв'язки"
+ RUS_labor_reform_camp:0 "Табір виправно-трудових робіт"
+ RUS_reorganized_cabinet:0 "Реорганізоване Політбюро"
+ 
+ RUS_endless_war_preparation:0 "Підготовка до нескінченної війни"
+ RUS_communist_pressure:0 "Комуністичний тиск"
+ RUS_support_independence:0 "Підтримка русами незалежності"
+
+ RUS_mages_purged:0 "Магів зачищено"
+
+ #Capital bombed by mission/event
+ RUS_capital_bombed:0 "[219.GetName] розбомблено"
+ RUS_capital_bombed_desc:0 "Столиця революції [219.GetName] була розбомблена [EMP.GetAdjective]ими магами. Ми повинні укріплювати наші міста від повітряних нальотів, щоб це не повторилося."
+ 
+ #Advisors
+ RUS_advisor_loria:0 "Лорія"
+ hypercompetent_psychopath:0 "Гіперкомпетентний психопат"
+ 
+ #Alt focus
+ RUS_political_changing:0 "Антикомуністичні настрої"
+ RUS_aleksandra:0 "Олександра І"
+ RUS_vasily_druchev:0 "Василь Дручев"
+ RUS_rebuild_nation:0 "Відбудова нації"
+ RUS_duma_empowered:0 "Думу уповноважено"
+ RUS_noble_support_refuse:0 "Відмовлено у дворянській підтримці"
+ RUS_noble_support_accept:0 "Прийнято благородну підтримку"
+ RUS_mages_training:0 "Навчання магів"
+ RUS_imperial_advisors:0 "Імперські радники"
+ RUS_western_investment:0 "Західні інвестиції"
+ RUS_denied_freedom:0 "Відмова в незалежності"
+ RUS_compensate_nobility:0 "Компенсація дворянству"
+ RUS_noble_investment:0 "Благородні інвестиції"
+ RUS_1st_russy_republic:0 "Тимчасова республіка"
+ RUS_2nd_russy_republic:0 "Республіка створена"
+ RUS_unstable_state:0 "Нестабільна країна"
+ RUS_stabilizing:0 "Стабілізація країни"
+ RUS_no_repression:0 "Амністія оголошена"
+ RUS_rural_investment:0 "Інвестиції в сільську місцевість"
+ RUS_foreign_investment:0 "Іноземні інвестиції"
+ RUS_russy_investment:0 "Руські інвестиції"
+ RUS_allies_investment:0 "Союзницькі інвестиції"
+ RUS_empowered_nobles:0 "Уповноважені дворяни"

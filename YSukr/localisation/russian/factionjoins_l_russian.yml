@@ -1,0 +1,19 @@
+﻿l_russian:
+  faction.1.t:0 "[From.GetName] закликає нас приєднатися до альянсу [From.GetFactionName]"
+  faction.1.d:0 "Сьогодні [Root.GetAdjective]ий уряд отримав пропозицію від держави [From.GetName] щодо нашого офіційного вступу до альянсу [From.GetFactionName]. Всі формальності будуть вирішені швидко і без жодних тяганин, все що треба - лише наша відповідь."
+  faction.1.a:0 "Звісно!"
+  faction.1.b:0 "Така дружба нам зашкодить..."
+
+  faction.2.t:0 "Ось [From.GetAdjective]а відповідь..."
+  faction.2.d:0 "Наш уряд нарешті отримав відповідь від держави [From.GetName]. Вони приймають нашу пропозицію."
+  faction.2.a:0 "Чудово!"
+
+  faction.3.d:0 "Наш уряд нарешті отримав відповідь від держави [From.GetName]. Вони відхиляють нашу пропозицію."
+  #There are actually supposed to be two different replies dependent on World Tension
+  faction.3.a:0 "Тюхтяї!"
+  faction.3.b:0 "Вони й так були запрошені для краси."
+
+  faction.4.t:0 "[From.GetName] хоче приєднатися до нашого альянсу [Root.GetFactionName]"
+  faction.4.d:0 "Сьогодні [Root.GetAdjective]ий уряд отримав пропозицію від держави [From.GetName] щодо їхнього офіційного вступу до альянсу [From.GetFactionName]. Вони хочуть уникнути всі політичні тяганини, і дати лише одну просту відповідь"
+  faction.4.a:0 "Гуртом легше й батька бити."
+  faction.4.b:0 "Вони тут вже не помістяться."
