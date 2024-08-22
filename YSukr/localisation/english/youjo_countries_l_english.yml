@@ -190,6 +190,19 @@
  CZW_DEF:0 "Чвартек"
 #Czwartek sounds like a proper noun that's also its own adjective
  CSW_ADJ:0 "Чвартекськ"
+# FIN:0 "Fiynlan"
+# FIN_ADJ:0 "Suom"
+### Turkmen
+ TRM:0 "Магриб"
+ TRM_DEF:0 "Магриб"
+ TRM_ADJ:0 "Магрибськ"
+ TRM_subject:0 "$OVERLORDADJ$ий $TRM$"
+ TRM_subject_DEF:0 "$OVERLORDADJ$ий $TRM$"
+ TKN:0 "Верхній Ніл"
+ TKN_DEF:0 "Верхній Ніл"
+ TKN_ADJ:0 "Нілськ"
+ TKN_subject:0 "$OVERLORDADJ$ий $TKN$"
+ TKN_subject_DEF:0 "$OVERLORDADJ$ий $TKN$"
 ### YS Indonesia
 # BOR_fascism:0 "Bornean State"
 # BOR_fascism_DEF:0 "The Bornean State"

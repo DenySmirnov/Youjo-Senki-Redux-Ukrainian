@@ -43,5 +43,14 @@
  EMP_demand_togo:0 "Вимагати Тоголенд"
  EMP_demand_tanganyika:0 "Вимагати Танганьїку"
  EMP_demand_namibia:0 "Вимагати Намібію"
+ EMP_hiltria_partition_plan:0 "План розділу Гілтрії"
+ EMP_hiltria_partition_plan_desc:0 "Ви можете переглянути, як буде поділена Гілтрія в залежності від того, яких претендентів ви запросите."
+ EMP_claim_on_hiltria_without_dacia:0 "Показати нашу претензію, якщо Дакія не буде запрошена"
+ EMP_claim_on_hiltria_with_dacia:0 "Показати нашу претензію, якщо Дакія буде запрошена"
+ EMP_dacian_claim_on_hiltria:0 "Показати претензії Дакії"
+ EMP_rumeli_claim_on_hiltria:0 "Показати претензії Магна Румелі"
+ EMP_southern_campaign_launch:0 "Розпочати Південну кампанію"
+ EMP_canal_campaign_launch:0 "Розпочати кампанію на каналі"
+ EMP_promote_romel:0 "Просування по службі генерал-майора Ромеля"
 
  

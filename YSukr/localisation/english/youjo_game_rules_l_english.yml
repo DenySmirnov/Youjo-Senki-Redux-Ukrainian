@@ -64,6 +64,18 @@ RULE_OPTION_LEG_AI_BEHAVIOUR_COMMUNIST_DESC:0 "Легадонія залицят
 RULE_OPTION_LEG_AI_BEHAVIOUR_RANDOM:0 "Випадкове"
 RULE_OPTION_LEG_AI_BEHAVIOUR_RANDOM_DESC:0 "Легадонія візьме випадковий шлях, можливо вкрай тупий, який її в кінці й знищить."
 
+RULE_TRK_AI_BEHAVIOUR: "Туркменські князівства"
+RULE_OPTION_TRK_AI_BEHAVIOUR_PASSIVE: "Пасивні"
+RULE_OPTION_TRK_AI_BEHAVIOUR_PASSIVE_DESC: "Туркменські князівства будуть тримати все при собі."
+RULE_OPTION_TRK_AI_BEHAVIOUR_MONARCHIST: "Монархісти"
+RULE_OPTION_TRK_AI_BEHAVIOUR_MONARCHIST_desc: "Туркменські князівства перейдуть до монархізму."
+RULE_OPTION_TRK_AI_BEHAVIOUR_DEMOCRACY: "Демократична революція"
+RULE_OPTION_TRK_AI_BEHAVIOUR_DEMOCRACY_DESC: "У Туркменських князівствах відбудеться демократична революція."
+RULE_OPTION_TRK_AI_BEHAVIOUR_COMMUNIST: "Комуністична революція"
+RULE_OPTION_TRK_AI_BEHAVIOUR_COMMUNIST_DESC: "У Туркменських князівствах відбудеться комуністична революція."
+RULE_OPTION_TRK_AI_BEHAVIOUR_RANDOM: "Випадкове"
+RULE_OPTION_TRK_AI_BEHAVIOUR_RANDOM_DESC: "Туркменські князівства візьмуть випадковий шлях, можливо вкрай тупий, який її в кінці й знищить."
+
 RULE_ORB_TUNING:0 "Поліпшення сфер"
 RULE_OPTION_ORB_TUNING_SHOW_STATS:0 "Показувати показники"
 RULE_OPTION_ORB_TUNING_SHOW_STATS_DESC:0 "УНалаштування сфер увімкнено, і показники налаштування відображається як національний дух для всіх. Налаштування за замовчуванням для одиночної гри."

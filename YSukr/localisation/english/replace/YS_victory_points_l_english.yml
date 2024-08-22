@@ -12,6 +12,7 @@
  VICTORY_POINTS_6115:0 "Оз"
  VICTORY_POINTS_1384:0 "Душанбе"
  VICTORY_POINTS_12583:0 "Бішкек"
+ VICTORY_POINTS_3878:0 "Нью-Яук"
  ### Rumeli ###
  ### Roman/Byzantine names in Modern Greek (ELOT/UN/ISO Transcription) ###
  ### Fall back to Armenian if none available ###
@@ -70,3 +71,8 @@
  VICTORY_POINTS_9809:0 "Бургурис"
  VICTORY_POINTS_9627:0 "Елювій"
  VICTORY_POINTS_6940:0 "Ульпіане"
+ #Rijeka/Fiume, not from the novel
+ VICTORY_POINTS_11564:0 "Вітополіс"
+ ### Middle East ###
+ #Phraaspa/Phraata
+ VICTORY_POINTS_1896:0 "Афрата"

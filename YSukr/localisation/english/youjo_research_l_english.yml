@@ -35,3 +35,7 @@
  mage_orb_desc:0 "Серце сучасної магії, магічні сфери, дозволяють будь-кому, хто має здібності до чаклунства, швидко і легко створювати заклинання в польових умовах, революціонізуючи використання бойових магів."
  mage_orb_building:0 "Сферовий завод"
  mage_orb_building_desc:0 "Ця будівля забезпечує державу"
+ # Special Techs
+ reformed_colonial_irregular: "Просунута нерегулярна тактика"
+ reformed_colonial_irregular_desc: ""
+ reformed_colonial_irregular_tt: "§Y$irregular_infantry$§!:\n $MODIFIER_BREAKTHROUGH$: §G+100%§!\n $MODIFIER_ARMY_MORALE$: §G+20%§!\n $MODIFIER_ARMY_STRENGTH$: §G+10§!\n"

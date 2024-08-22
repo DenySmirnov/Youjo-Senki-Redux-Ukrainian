@@ -115,14 +115,6 @@
  SAF_monarchism_DEF:0 "Південно-Африканська імперія"
  SAF_monarchism_ADJ:0 "Південноафриканськ"
  
- PER_monarchism:0 "Перська імперія"
- PER_monarchism_DEF:0 "Перська імперія"
- PER_monarchism_ADJ:0 "Перськ"
- 
- AFG_monarchism:0 "Афганський султанат"
- AFG_monarchism_DEF:0 "Афганський султанат"
- AFG_monarchism_ADJ:0 "Афганськ"
- 
  VIN_monarchism:0 "В'єтнамська імперія"
  VIN_monarchism_DEF:0 "В'єтнамська імперія"
  VIN_monarchism_ADJ:0 "В'єтнамськ"
@@ -202,10 +194,6 @@
  SIA_monarchism:0 "Імперія Сіам"
  SIA_monarchism_DEF:0 "Імперія Сіам"
  SIA_monarchism_ADJ:0 "Сіамськ"
- 
- CHI_monarchism:0 "Китайська імперія"
- CHI_monarchism_DEF:0 "Китайська імперія"
- CHI_monarchism_ADJ:0 "Китайськ"
  
  PHI_monarchism:0 "Королівство Філіппіни"
  PHI_monarchism_DEF:0 "Королівство Філіппіни"

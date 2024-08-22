@@ -35,7 +35,7 @@
  EMP_puppet_democratic_ADJ:0 "Берлунськ"
  EMP_puppet_neutrality_ADJ:0 "Імперськ"
  EMP_puppet_communism_ADJ:0 "Берлунськ"
- RUS_union_communism_ADJ:0 "Великий Комуністичний Союз"
+ RUS_union_communism_ADJ:0 "Союзницьк"
  RUS_union_communism:0 "Великий Комуністичний Союз"
  RUS_constitutional_empire:0 "Руська Імперія"
  RUS_constitutional_empire_DEF:0 "Руська Імперія"
@@ -43,13 +43,12 @@
  RUS_white_army_DEF:0 "Руська Біла Армія"
  RUS_provisional_duma:0 "Тимчасова руська дума"
  RUS_provisional_duma_DEF:0 "Тимчасова руська дума" 
- 
- 
- 
- 
- 
- 
- 
+ TRK_loyalist:0 "Королівська туркменська армія"
+ TRK_loyalist_DEF:0 "Королівська туркменська армія"
+ TRK_loyalist_ADJ:0 "Лояльна туркменськ"
+ TRK_opposition:0 "Туркменська опозиція"
+ TRK_opposition_DEF:0 "Туркменська опозиція"
+ TRK_opposition_ADJ:0 "Повстала туркменськ"
  
  
  

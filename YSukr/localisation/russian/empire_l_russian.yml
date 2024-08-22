@@ -1,6 +1,6 @@
 ﻿l_russian:
  #Opinion modifiers
- GER_refused_give_up_scania:0 "Відмовитись від здачі Сканії"
+ GER_refused_give_up_scania:0 "Відмовились від здачі Сканії"
  GER_scania_for_gotland:0 "Сканійська угода"
  GER_refuse_scania_for_gotland:0 "Відмова від Сканія-Готландської угоди"
  GER_gave_up_scania:0 "Передано Сканію"
@@ -28,7 +28,7 @@
  EMP_embassy_reopen:0 "Відновлено роботу імператорського посольства"
  #Decisions
  EMP_recover_plan_one_decision:0 "План відновлення - стадія I"
- EMP_recover_plan_two_decision:0 "План відновлення - стадія I"
+ EMP_recover_plan_two_decision:0 "План відновлення - стадія II"
  EMP_hippel_line_tt:0 "Побудує §YЛінію Гіппеля§! в наступних повністю контрольованих регіонах:\n"
  EMP_hippel_line_tt_1:0 "§YМозелланд§!\n§YРейн§!\n§YФрісландія§!\n§YГолландія§!\n"
  EMP_suppress_norden:0 "Придушити повстання в Імперському Нордені"

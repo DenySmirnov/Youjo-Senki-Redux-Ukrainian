@@ -38,6 +38,21 @@
  REP_mountains:0 "Крізь гори та сніги!"
  REP_colonial_recruitment:0 "Колоніальна вербовка"
  REP_HIS_trade_deal:0 "[REP.GetAdjective]а-[HIS.GetAdjective]а торгова угода"
+ #Free Republic Ideas
+ REP_exodus_idea: "Втеча з материка"
+ REP_weapons_for_resistance: "Виробництво зброї для опору"
+ REP_amphibious_assault: "Підготовка для дня «Д»"
+ REP_informant_idea: "Інформатори спротиву"
+ REP_communist_cooperation_idea: "Комуністична співпраця - низька"
+ REP_communist_cooperation_idea_2: "Комуністична співпраця - висока"
+ REP_nationalist_cooperation_idea: "Націоналістична співпраця - низька"
+ REP_nationalist_cooperation_idea_2: "Націоналістична співпраця - висока"
+ #Free Republic Dynamic Modifiers (State)
+ YS_REP_weapon_smuggled: "Контрабанда зброї з боку опору"
+ YS_REP_production_smuggled: "Контрабанда продукції опору"
+ YS_REP_fleeing_population: "Втеча жителів"
+ YS_REP_factory_sabotage: "Саботаж фабрик опором"
+ YS_REP_relaxed_colonial_rule: "Колоніальне панування послаблене"
  #end
 
  #Republican Advisors
