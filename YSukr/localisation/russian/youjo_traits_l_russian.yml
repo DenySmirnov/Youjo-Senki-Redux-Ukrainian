@@ -30,5 +30,7 @@
  anti_neutral:0 "Анти-нейтрал"
  anti_neutral_desc:0 "Цей генерал волів би спалити паркани, за якими ховаються нейтральні."
  #popular_queen:0 "Popular Queen"
- popular_queen_desc:0 "Цей правитель бачить у них підтримку народу."
+ popular_queen_desc:0 "Цей правитель бачить підтримку народу."
  hedonist_desc:0 "Ця людина понад усе шукає задоволення від фізичного життя."
+ mage_equipment_manufacturer: "Виробник сфер"
+ experimental_mage_equipment_manufacturer: "Експериментальний виробник сфер"

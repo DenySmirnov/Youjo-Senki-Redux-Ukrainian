@@ -34,7 +34,7 @@ USA_army_harder_desc:0 ""
 USA_get_in_loser_were_containing_the_empire:0 "Заходим!"
 USA_get_in_loser_were_containing_the_empire_desc:0 ""
 
-YS_USA.rejected:"[From.GetNameDefCap] відмовляєтьяс від співпраць."
+YS_USA.rejected:"[From.GetNameDefCap] відмовляється від співпраць."
 YS_USA.good:0 "Добре."
 YS_USA.notgood:0 "Погано."
 

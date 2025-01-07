@@ -97,6 +97,6 @@
  TRK_marine_training_bonus: "Бонус морської підготовки"
  TRK_marine_training_bonus_desc: ""
  #Modifiers
- modifier_unit_cav_artillery_brigade_design_cost_factor: "Вартість проектування підрозділу кінної артилерії"
- modifier_unit_cav_anti_tank_brigade_design_cost_factor: "Вартість проектування кінного протитанкового підрозділу"
- modifier_unit_cav_anti_air_brigade_design_cost_factor: "Вартість проектування кінного зенітного комплексу"
+ modifier_unit_cav_artillery_brigade_design_cost_factor: "Вартість проєктування підрозділу кінної артилерії"
+ modifier_unit_cav_anti_tank_brigade_design_cost_factor: "Вартість проєктування кінного протитанкового підрозділу"
+ modifier_unit_cav_anti_air_brigade_design_cost_factor: "Вартість проєктування кінного зенітного комплексу"

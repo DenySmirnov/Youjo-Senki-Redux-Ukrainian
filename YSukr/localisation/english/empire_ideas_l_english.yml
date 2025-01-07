@@ -107,3 +107,6 @@
  EMP_sanction_removal: "Санкції зняті"
  #1920 elections
  has_1920_elections:0 "Вибори 1920 року завершені."
+ #designers
+ EMP_volcker: "Волкер"
+ EMP_elenium: "Еленіум"

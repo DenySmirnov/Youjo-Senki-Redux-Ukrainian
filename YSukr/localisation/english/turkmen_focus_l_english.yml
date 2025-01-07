@@ -1,6 +1,6 @@
 ﻿l_english:
  ### Infra ###
- TRK_capital_highway: "Проект автомобільних доріг"
+ TRK_capital_highway: "Проєкт автомобільних доріг"
  TRK_capital_highway_desc: ""
  TRK_central_railroad: "Центральна залізниця"
  TRK_central_railroad_desc: ""
@@ -65,7 +65,7 @@
  TRK_army_doctrine_desc: ""
  TRK_artillery_corps: "Артилерійський корпус"
  TRK_artillery_corps_desc: ""
- TRK_tank_designs: "Проекти танків"
+ TRK_tank_designs: "Проєкти танків"
  TRK_tank_designs_desc: ""
  TRK_guns_for_hire: "Оренда зброї"
  TRK_guns_for_hire_desc: ""

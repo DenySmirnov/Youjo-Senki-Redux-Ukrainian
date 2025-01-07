@@ -20,7 +20,7 @@
  SOV_not_sign:0 "Відхилено нашу пропозицію"
  SOV_has_signed:0 "Прийнято нашу пропозицію"
  EMP_betrayed_treaty:0 "Зрадили договір"
- EMP_research_mission:0 "Спільні дослідницькі проекти"
+ EMP_research_mission:0 "Спільні дослідницькі проєкти"
  EMP_sov_secret_treaty:0 "Договір Цеттур-Павла"
  EMP_accept_allied_kingdom_naval_dominance_opinion:0 "Прийняли наше морське панування"
  EMP_royal_marrige:0 "Королівські шлюбні узи"
@@ -30,7 +30,7 @@
  EMP_recover_plan_one_decision:0 "План відновлення - стадія I"
  EMP_recover_plan_two_decision:0 "План відновлення - стадія II"
  EMP_hippel_line_tt:0 "Побудує §YЛінію Гіппеля§! в наступних повністю контрольованих регіонах:\n"
- EMP_hippel_line_tt_1:0 "§YМозелланд§!\n§YРейн§!\n§YФрісландія§!\n§YГолландія§!\n"
+ EMP_hippel_line_tt_1:0 "§YМозелланд§!\n§YРайн§!\n§YФрісландія§!\n§YГолландія§!\n"
  EMP_suppress_norden:0 "Придушити повстання в Імперському Нордені"
  EMP_suppress_norden_desc:0 "Підбадьорені перемогою Легадонії, симпатики Легадонії розпочали повстання в Імперському Нордені! Нам потрібно повернути цілий норден, щоб зламати їхній дух."
  #Tooltips
